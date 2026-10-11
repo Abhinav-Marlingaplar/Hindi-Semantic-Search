@@ -4,7 +4,9 @@
 **CSE413 Speech and Natural Language Processing**
 
 **Team:** 
+
 Abhinav Marlingaplar (2023BCD0013)
+
 Saksham Saklani (2023BCD0049)
 
 ## What this project does
@@ -35,22 +37,20 @@ Full details are in the report.
 ## Repository contents
 ```
 hindi-semantic-search/
+├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── app.py                          # interactive demo (Search + Query explorer)
-├── notebook/
-│   └── Hindi_Semantic_Search_Final.ipynb   # full implementation, experiments and analysis
-├── report/
-│   └── Semantic_Search_Hindi_Documents_Report.pdf
-├── presentation/
-│   └── Hindi_Semantic_Search.pptx
-├── results/                        # tables and figures exported by the notebook
-├── demo_search/                    # screenshots of the Search tab
-│   ├── search1.png
-│   └── search2.png
-└── demo_explorer/                  # screenshots of the Query explorer tab
-    ├── explorer1.png
-    └── explorer2.png
+├── Hindi_Semantic_Search_Final.ipynb   # full implementation, experiments and analysis
+├── Hindi_Semantic_Search_Final_Report.pdf 
+├── Hindi_Semantic_Search_Final_Presentation.pptx
+└──demo
+    ├── demo_search/                    # screenshots of the Search tab
+    │   ├── search1.png
+    │   └── search2.png
+    └──demo_explorer/                  # screenshots of the Query explorer tab
+        ├── explorer1.png
+        └── explorer2.png
 ```
 
 ## Setup
@@ -88,8 +88,8 @@ The demo searches only the 5,046 questions of the project dataset.
 
 <table>
   <tr>
-    <td width="50%"><img src="demo_search/search1.png" alt="Search tab, screenshot 1" width="100%"></td>
-    <td width="50%"><img src="demo_search/search2.png" alt="Search tab, screenshot 2" width="100%"></td>
+    <td width="50%"><img src="demo/demo_search/search1.png" alt="Search tab, screenshot 1" width="100%"></td>
+    <td width="50%"><img src="demo/demo_search/search2.png" alt="Search tab, screenshot 2" width="100%"></td>
   </tr>
 </table>
 
@@ -97,8 +97,8 @@ The demo searches only the 5,046 questions of the project dataset.
 
 <table>
   <tr>
-    <td width="50%"><img src="demo_explorer/explorer1.png" alt="Query explorer tab, screenshot 1" width="100%"></td>
-    <td width="50%"><img src="demo_explorer/explorer2.png" alt="Query explorer tab, screenshot 2" width="100%"></td>
+    <td width="50%"><img src="demo/demo_explorer/explorer1.png" alt="Query explorer tab, screenshot 1" width="100%"></td>
+    <td width="50%"><img src="demo/demo_explorer/explorer2.png" alt="Query explorer tab, screenshot 2" width="100%"></td>
   </tr>
 </table>
 
