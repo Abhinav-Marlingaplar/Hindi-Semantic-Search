@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+# Cached document embeddings (about 23 MB). Delete this line to commit them for a faster first run.
+cache/

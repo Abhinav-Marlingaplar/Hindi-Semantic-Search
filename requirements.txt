@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+rank_bm25
+sentence-transformers
+datasets
+ranx
+gradio>=4.0
