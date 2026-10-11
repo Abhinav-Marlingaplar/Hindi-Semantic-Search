@@ -88,8 +88,8 @@ The demo searches only the 5,046 questions of the project dataset.
 
 <table>
   <tr>
-    <td width="50%"><img src="demo/demo_search/search1.png" alt="Search tab, screenshot 1" width="100%"></td>
-    <td width="50%"><img src="demo/demo_search/search2.png" alt="Search tab, screenshot 2" width="100%"></td>
+    <td width="50%"><img src="demo/demo_search/demo_search1.png" alt="Search tab, screenshot 1" width="100%"></td>
+    <td width="50%"><img src="demo/demo_search/demo_search2.png" alt="Search tab, screenshot 2" width="100%"></td>
   </tr>
 </table>
 
@@ -97,8 +97,8 @@ The demo searches only the 5,046 questions of the project dataset.
 
 <table>
   <tr>
-    <td width="50%"><img src="demo/demo_explorer/explorer1.png" alt="Query explorer tab, screenshot 1" width="100%"></td>
-    <td width="50%"><img src="demo/demo_explorer/explorer2.png" alt="Query explorer tab, screenshot 2" width="100%"></td>
+    <td width="50%"><img src="demo/demo_explorer/demo_explorer1.png" alt="Query explorer tab, screenshot 1" width="100%"></td>
+    <td width="50%"><img src="demo/demo_explorer/demo_explorer2.png" alt="Query explorer tab, screenshot 2" width="100%"></td>
   </tr>
 </table>
 
