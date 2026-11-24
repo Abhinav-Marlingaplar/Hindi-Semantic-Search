@@ -1,8 +1,6 @@
 # Semantic Search for Hindi Documents using Sentence Embeddings
 ### A Comparative Study of TF-IDF and Semantic Retrieval
 
-**CSE413 Speech and Natural Language Processing**
-
 ## What this project does
 A search system should find documents that match what a user *means*, not only the words they typed. We compare two ways of searching Hindi text:
 
