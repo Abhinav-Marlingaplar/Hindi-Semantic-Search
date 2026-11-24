@@ -3,12 +3,6 @@
 
 **CSE413 Speech and Natural Language Processing**
 
-**Team Number 8:** 
-
-Abhinav Marlingaplar (2023BCD0013)
-
-Saksham Saklani (2023BCD0049)
-
 ## What this project does
 A search system should find documents that match what a user *means*, not only the words they typed. We compare two ways of searching Hindi text:
 
